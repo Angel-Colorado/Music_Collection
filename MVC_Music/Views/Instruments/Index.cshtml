@@ -1,0 +1,120 @@
+﻿@model IEnumerable<MVC_Music.Models.Instrument>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<div class="row">
+    <div class="col-sm-3">
+        <a asp-action="Create">Create New</a>
+    </div>
+    <div class="col-sm-9">
+        <form asp-action="InsertFromExcel" asp-controller="Instruments" method="post" enctype="multipart/form-data">
+            <div class="form-group float-end">
+                <div class="input-group">
+                    <input type="submit" class="btn btn-outline-primary" value="Upload Excel File" data-bs-toggle="tooltip" title="To test the upload, create an Excel spreadsheet with Instrument names in the first column of the first worksheet.">
+                    <input type="file" class="form-control" name="theExcel" id="theExcel">
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<div asp-validation-summary="ModelOnly" class="alert alert-info" style="white-space: pre;"></div>
+<form asp-action="Index" method="get">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Musicians)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Plays)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @{
+                            int musicianCount = item.Musicians.Count;
+                            if (musicianCount > 0)
+                            {
+                                string firstMusician = item.Musicians.FirstOrDefault().FullName;
+                                if (musicianCount > 1)
+                                {
+                                    string musicianList = "";
+                                    var c = item.Musicians.ToList();
+                                    for (int i = 1; i < musicianCount; i++)//Skip the first because we have it already
+                                    {
+                                        musicianList += c[i].FullName + " <br />";
+                                    }
+                                    <a class="" role="button" data-bs-toggle="collapse" href="#collapseMusicians@(item.ID)"
+                           aria-expanded="false" aria-controls="collapseMusicians@(item.ID)">
+                                        @firstMusician <span class="badge bg-info">@musicianCount</span>
+                                    </a>
+                                    <div class="collapse" id="collapseMusicians@(item.ID)">
+                                        @Html.Raw(musicianList)
+                                    </div>
+                                }
+                                else
+                                {
+                                    @firstMusician
+                                }
+                            }
+                        }
+                    </td>
+                    <td>
+                        @{
+                            int playCount = item.Plays.Count;
+                            if (playCount > 0)
+                            {
+                                string firstPlay = item.Plays.FirstOrDefault().Musician.FullName;
+                                if (playCount > 1)
+                                {
+                                    string playList = "";
+                                    var c = item.Plays.ToList();
+                                    for (int i = 1; i < playCount; i++)//Skip the first because we have it already
+                                    {
+                                        playList += c[i].Musician.FullName + " <br />";
+                                    }
+                                    <a class="" role="button" data-bs-toggle="collapse" href="#collapseOther@(item.ID)"
+                           aria-expanded="false" aria-controls="collapseOther@(item.ID)">
+                                        @firstPlay <span class="badge bg-info">@playCount</span>
+                                    </a>
+                                    <div class="collapse" id="collapseOther@(item.ID)">
+                                        @Html.Raw(playList)
+                                    </div>
+                                }
+                                else
+                                {
+                                    @firstPlay
+                                }
+                            }
+                        }
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <partial name="_PagingNavBar" />
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

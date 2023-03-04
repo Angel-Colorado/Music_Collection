@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="MVCMusic2022-AngelC" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^M:\\Portfolio\ \(2023\)\\MVC_Music_Solution\\MVC_Music\\obj\\Release\\net6\.0\\win-x86\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

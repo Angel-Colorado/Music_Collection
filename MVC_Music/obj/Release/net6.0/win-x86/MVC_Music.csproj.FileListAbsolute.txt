@@ -1,0 +1,1244 @@
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\appsettings.Development.json
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\appsettings.json
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\MVC_Music.staticwebassets.runtime.json
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\MVC_Music.exe
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\MVC_Music.deps.json
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\MVC_Music.runtimeconfig.json
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\MVC_Music.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\MVC_Music.pdb
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\EPPlus.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Humanizer.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\MailKit.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\MessagePack.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\MessagePack.Annotations.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Identity.UI.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Razor.Language.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Bcl.AsyncInterfaces.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Build.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Build.Framework.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.CSharp.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.CSharp.Features.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.Features.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.Razor.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.Scripting.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.Workspaces.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Data.SqlClient.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Data.Sqlite.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.DiaSymReader.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.DotNet.Scaffolding.Shared.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Design.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Relational.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Sqlite.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyModel.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Embedded.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Identity.Core.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Identity.Stores.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Identity.Client.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Logging.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Protocols.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Tokens.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.NET.StringTools.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Debugger.Contracts.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGeneration.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\dotnet-aspnet-codegenerator-design.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Win32.SystemEvents.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\MimeKit.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Newtonsoft.Json.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\NuGet.Common.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\NuGet.Configuration.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\NuGet.DependencyResolver.Core.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\NuGet.Frameworks.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\NuGet.LibraryModel.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\NuGet.Packaging.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\NuGet.ProjectModel.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\NuGet.Protocol.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\NuGet.Versioning.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\BouncyCastle.Crypto.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\SkiaSharp.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\SQLitePCLRaw.batteries_v2.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\SQLitePCLRaw.core.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\SQLitePCLRaw.provider.e_sqlite3.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Composition.AttributedModel.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Composition.Convention.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Composition.Hosting.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Composition.Runtime.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Composition.TypedParts.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Configuration.ConfigurationManager.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Drawing.Common.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.IdentityModel.Tokens.Jwt.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Caching.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Cryptography.ProtectedData.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Permissions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Windows.Extensions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Xml.XPath.XmlDocument.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Data.SqlClient.SNI.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\libSkiaSharp.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\e_sqlite3.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CSharp.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.Core.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Win32.Primitives.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Win32.Registry.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.AppContext.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Buffers.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Collections.Concurrent.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Collections.Immutable.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Collections.NonGeneric.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Collections.Specialized.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Collections.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.ComponentModel.Annotations.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.ComponentModel.DataAnnotations.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.ComponentModel.EventBasedAsync.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.ComponentModel.Primitives.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.ComponentModel.TypeConverter.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.ComponentModel.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Configuration.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Console.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Core.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Data.Common.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Data.DataSetExtensions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Data.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.Contracts.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.Debug.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.DiagnosticSource.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.FileVersionInfo.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.Process.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.StackTrace.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.Tools.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.TraceSource.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.Tracing.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Drawing.Primitives.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Drawing.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Dynamic.Runtime.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Formats.Asn1.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Globalization.Calendars.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Globalization.Extensions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Globalization.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.IO.Compression.Brotli.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.IO.Compression.FileSystem.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.IO.Compression.ZipFile.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.IO.Compression.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.IO.FileSystem.AccessControl.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.IO.FileSystem.DriveInfo.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.IO.FileSystem.Primitives.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.IO.FileSystem.Watcher.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.IO.FileSystem.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.IO.IsolatedStorage.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.IO.MemoryMappedFiles.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.IO.Pipes.AccessControl.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.IO.Pipes.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.IO.UnmanagedMemoryStream.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.IO.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Linq.Expressions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Linq.Parallel.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Linq.Queryable.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Linq.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Memory.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Net.Http.Json.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Net.Http.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Net.HttpListener.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Net.Mail.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Net.NameResolution.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Net.NetworkInformation.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Net.Ping.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Net.Primitives.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Net.Quic.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Net.Requests.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Net.Security.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Net.ServicePoint.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Net.Sockets.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Net.WebClient.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Net.WebHeaderCollection.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Net.WebProxy.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Net.WebSockets.Client.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Net.WebSockets.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Net.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Numerics.Vectors.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Numerics.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.ObjectModel.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Private.CoreLib.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Private.DataContractSerialization.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Private.Uri.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Private.Xml.Linq.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Private.Xml.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Reflection.DispatchProxy.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Reflection.Emit.ILGeneration.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Reflection.Emit.Lightweight.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Reflection.Emit.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Reflection.Extensions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Reflection.Metadata.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Reflection.Primitives.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Reflection.TypeExtensions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Reflection.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Resources.Reader.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Resources.ResourceManager.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Resources.Writer.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.VisualC.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Extensions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Handles.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Intrinsics.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Loader.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Numerics.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Formatters.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Json.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Primitives.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Xml.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Serialization.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Security.AccessControl.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Claims.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Cryptography.Algorithms.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Cryptography.Cng.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Cryptography.Csp.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Cryptography.Encoding.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Cryptography.OpenSsl.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Cryptography.Primitives.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Cryptography.X509Certificates.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Principal.Windows.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Principal.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Security.SecureString.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Security.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.ServiceModel.Web.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.ServiceProcess.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Text.Encoding.CodePages.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Text.Encoding.Extensions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Text.Encoding.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Text.Encodings.Web.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Text.Json.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Text.RegularExpressions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Threading.Channels.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Threading.Overlapped.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Threading.Tasks.Dataflow.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Threading.Tasks.Extensions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Threading.Tasks.Parallel.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Threading.Tasks.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Threading.Thread.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Threading.ThreadPool.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Threading.Timer.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Threading.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Transactions.Local.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Transactions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.ValueTuple.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Web.HttpUtility.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Web.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Windows.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Xml.Linq.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Xml.ReaderWriter.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Xml.Serialization.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Xml.XDocument.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Xml.XPath.XDocument.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Xml.XPath.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Xml.XmlDocument.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Xml.XmlSerializer.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Xml.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\WindowsBase.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\mscorlib.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\netstandard.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Antiforgery.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.Abstractions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.Cookies.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.Core.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.OAuth.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authorization.Policy.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authorization.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.Authorization.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.Forms.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.Server.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.Web.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Connections.Abstractions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.CookiePolicy.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Cors.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.DataProtection.Extensions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.DataProtection.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Diagnostics.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.HostFiltering.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Hosting.Abstractions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Hosting.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Html.Abstractions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Abstractions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Connections.Common.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Connections.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Extensions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Features.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Results.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.HttpLogging.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.HttpOverrides.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.HttpsPolicy.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Identity.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Localization.Routing.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Localization.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Metadata.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Abstractions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Core.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Cors.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Localization.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Razor.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.RazorPages.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Razor.Runtime.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Razor.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.ResponseCaching.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.ResponseCompression.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Rewrite.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Routing.Abstractions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Routing.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.HttpSys.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.IIS.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.IISIntegration.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.Kestrel.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Session.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.SignalR.Common.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.SignalR.Core.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.SignalR.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.StaticFiles.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.WebSockets.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.WebUtilities.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Caching.Abstractions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Caching.Memory.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Binder.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.CommandLine.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Ini.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Json.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.KeyPerFile.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.UserSecrets.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Xml.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Features.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Composite.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Physical.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.Abstractions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Http.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Localization.Abstractions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Localization.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Abstractions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Configuration.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Console.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Debug.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.EventLog.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.EventSource.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.TraceSource.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.ObjectPool.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.DataAnnotations.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Primitives.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.WebEncoders.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.JSInterop.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Net.Http.Headers.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.EventLog.Messages.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.EventLog.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.IO.Pipelines.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Cryptography.Pkcs.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Cryptography.Xml.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\API-MS-Win-core-xstate-l2-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\System.IO.Compression.Native.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-2-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-datetime-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-debug-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-errorhandling-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-fibers-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-2-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-file-l2-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-handle-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-heap-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-interlocked-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-libraryloader-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-localization-l1-2-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-memory-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-namedpipe-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-processenvironment-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-1.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-profile-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-rtlsupport-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-string-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-2-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-sysinfo-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-timezone-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-util-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-conio-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-convert-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-environment-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-filesystem-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-heap-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-locale-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-math-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-multibyte-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-private-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-process-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-runtime-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-stdio-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-string-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-time-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-utility-l1-1-0.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\clretwrc.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\clrjit.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\coreclr.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\createdump.exe
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\dbgshim.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\hostfxr.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\hostpolicy.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\mscordaccore.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\mscordaccore_x86_x86_6.0.822.36306.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\mscordbi.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\mscorrc.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\msquic.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\ucrtbase.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\bin\Release\net6.0\win-x86\aspnetcorev2_inprocess.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.csproj.AssemblyReference.cache
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.GeneratedMSBuildEditorConfig.editorconfig
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.AssemblyInfoInputs.cache
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.AssemblyInfo.cs
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.csproj.CoreCompileInputs.cache
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.MvcApplicationPartsAssemblyInfo.cs
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.MvcApplicationPartsAssemblyInfo.cache
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.RazorAssemblyInfo.cache
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.RazorAssemblyInfo.cs
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\obj\Release\net6.0\win-x86\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\obj\Release\net6.0\win-x86\scopedcss\bundle\MVC_Music.styles.css
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\obj\Release\net6.0\win-x86\scopedcss\projectbundle\MVC_Music.bundle.scp.css
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.csproj.CopyComplete
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\obj\Release\net6.0\win-x86\refint\MVC_Music.dll
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.pdb
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.genruntimeconfig.cache
+M:\Niagara College\3rd term\02 Design Patterns\Projects\MVC_Music_Solution_Part4\MVC_Music\obj\Release\net6.0\win-x86\ref\MVC_Music.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\appsettings.Development.json
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\appsettings.json
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\MVC_Music.staticwebassets.runtime.json
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\MVC_Music.exe
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\MVC_Music.deps.json
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\MVC_Music.runtimeconfig.json
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\MVC_Music.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\MVC_Music.pdb
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\EPPlus.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Humanizer.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\MailKit.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\MessagePack.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\MessagePack.Annotations.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Identity.UI.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Razor.Language.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Bcl.AsyncInterfaces.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Build.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Build.Framework.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.CSharp.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.CSharp.Features.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.Features.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.Razor.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.Scripting.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.Workspaces.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Data.SqlClient.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Data.Sqlite.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.DiaSymReader.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.DotNet.Scaffolding.Shared.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Design.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Relational.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.Sqlite.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyModel.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Embedded.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Identity.Core.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Identity.Stores.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Identity.Client.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Logging.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Protocols.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.IdentityModel.Tokens.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.NET.StringTools.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Debugger.Contracts.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGeneration.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\dotnet-aspnet-codegenerator-design.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Win32.SystemEvents.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\MimeKit.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Newtonsoft.Json.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\NuGet.Common.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\NuGet.Configuration.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\NuGet.DependencyResolver.Core.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\NuGet.Frameworks.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\NuGet.LibraryModel.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\NuGet.Packaging.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\NuGet.ProjectModel.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\NuGet.Protocol.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\NuGet.Versioning.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\BouncyCastle.Crypto.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\SkiaSharp.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\SQLitePCLRaw.batteries_v2.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\SQLitePCLRaw.core.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\SQLitePCLRaw.provider.e_sqlite3.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Composition.AttributedModel.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Composition.Convention.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Composition.Hosting.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Composition.Runtime.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Composition.TypedParts.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Configuration.ConfigurationManager.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Drawing.Common.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.IdentityModel.Tokens.Jwt.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Caching.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Cryptography.ProtectedData.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Permissions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Windows.Extensions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Xml.XPath.XmlDocument.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Data.SqlClient.SNI.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\libSkiaSharp.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\e_sqlite3.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.CSharp.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.Core.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Win32.Primitives.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Win32.Registry.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.AppContext.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Buffers.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Collections.Concurrent.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Collections.Immutable.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Collections.NonGeneric.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Collections.Specialized.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Collections.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.ComponentModel.Annotations.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.ComponentModel.DataAnnotations.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.ComponentModel.EventBasedAsync.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.ComponentModel.Primitives.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.ComponentModel.TypeConverter.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.ComponentModel.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Configuration.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Console.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Core.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Data.Common.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Data.DataSetExtensions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Data.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.Contracts.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.Debug.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.DiagnosticSource.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.FileVersionInfo.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.Process.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.StackTrace.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.Tools.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.TraceSource.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.Tracing.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Drawing.Primitives.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Drawing.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Dynamic.Runtime.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Formats.Asn1.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Globalization.Calendars.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Globalization.Extensions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Globalization.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.IO.Compression.Brotli.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.IO.Compression.FileSystem.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.IO.Compression.ZipFile.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.IO.Compression.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.IO.FileSystem.AccessControl.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.IO.FileSystem.DriveInfo.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.IO.FileSystem.Primitives.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.IO.FileSystem.Watcher.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.IO.FileSystem.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.IO.IsolatedStorage.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.IO.MemoryMappedFiles.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.IO.Pipes.AccessControl.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.IO.Pipes.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.IO.UnmanagedMemoryStream.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.IO.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Linq.Expressions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Linq.Parallel.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Linq.Queryable.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Linq.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Memory.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Net.Http.Json.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Net.Http.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Net.HttpListener.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Net.Mail.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Net.NameResolution.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Net.NetworkInformation.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Net.Ping.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Net.Primitives.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Net.Quic.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Net.Requests.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Net.Security.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Net.ServicePoint.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Net.Sockets.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Net.WebClient.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Net.WebHeaderCollection.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Net.WebProxy.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Net.WebSockets.Client.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Net.WebSockets.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Net.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Numerics.Vectors.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Numerics.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.ObjectModel.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Private.CoreLib.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Private.DataContractSerialization.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Private.Uri.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Private.Xml.Linq.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Private.Xml.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Reflection.DispatchProxy.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Reflection.Emit.ILGeneration.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Reflection.Emit.Lightweight.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Reflection.Emit.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Reflection.Extensions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Reflection.Metadata.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Reflection.Primitives.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Reflection.TypeExtensions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Reflection.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Resources.Reader.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Resources.ResourceManager.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Resources.Writer.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.VisualC.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Extensions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Handles.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Intrinsics.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Loader.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Numerics.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Formatters.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Json.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Primitives.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Xml.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.Serialization.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Runtime.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Security.AccessControl.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Claims.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Cryptography.Algorithms.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Cryptography.Cng.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Cryptography.Csp.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Cryptography.Encoding.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Cryptography.OpenSsl.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Cryptography.Primitives.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Cryptography.X509Certificates.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Principal.Windows.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Principal.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Security.SecureString.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Security.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.ServiceModel.Web.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.ServiceProcess.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Text.Encoding.CodePages.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Text.Encoding.Extensions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Text.Encoding.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Text.Encodings.Web.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Text.Json.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Text.RegularExpressions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Threading.Channels.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Threading.Overlapped.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Threading.Tasks.Dataflow.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Threading.Tasks.Extensions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Threading.Tasks.Parallel.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Threading.Tasks.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Threading.Thread.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Threading.ThreadPool.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Threading.Timer.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Threading.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Transactions.Local.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Transactions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.ValueTuple.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Web.HttpUtility.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Web.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Windows.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Xml.Linq.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Xml.ReaderWriter.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Xml.Serialization.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Xml.XDocument.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Xml.XPath.XDocument.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Xml.XPath.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Xml.XmlDocument.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Xml.XmlSerializer.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Xml.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\WindowsBase.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\mscorlib.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\netstandard.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Antiforgery.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.Abstractions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.Cookies.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.Core.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.OAuth.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authentication.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authorization.Policy.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Authorization.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.Authorization.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.Forms.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.Server.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.Web.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Components.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Connections.Abstractions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.CookiePolicy.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Cors.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.DataProtection.Extensions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.DataProtection.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Diagnostics.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.HostFiltering.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Hosting.Abstractions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Hosting.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Html.Abstractions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Abstractions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Connections.Common.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Connections.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Extensions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Features.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.Results.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Http.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.HttpLogging.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.HttpOverrides.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.HttpsPolicy.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Identity.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Localization.Routing.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Localization.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Metadata.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Abstractions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Core.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Cors.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Localization.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.Razor.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.RazorPages.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Mvc.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Razor.Runtime.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Razor.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.ResponseCaching.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.ResponseCompression.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Rewrite.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Routing.Abstractions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Routing.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.HttpSys.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.IIS.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.IISIntegration.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Server.Kestrel.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.Session.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.SignalR.Common.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.SignalR.Core.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.SignalR.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.StaticFiles.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.WebSockets.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.WebUtilities.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.AspNetCore.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Caching.Abstractions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Caching.Memory.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Binder.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.CommandLine.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Ini.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Json.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.KeyPerFile.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.UserSecrets.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.Xml.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Configuration.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Features.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Composite.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileProviders.Physical.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.Abstractions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Hosting.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Http.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Localization.Abstractions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Localization.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Abstractions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Configuration.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Console.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.Debug.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.EventLog.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.EventSource.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.TraceSource.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Logging.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.ObjectPool.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.DataAnnotations.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Options.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.Primitives.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Extensions.WebEncoders.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.JSInterop.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.Net.Http.Headers.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.EventLog.Messages.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Diagnostics.EventLog.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.IO.Pipelines.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Cryptography.Pkcs.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.Security.Cryptography.Xml.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\API-MS-Win-core-xstate-l2-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\System.IO.Compression.Native.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-2-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-datetime-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-debug-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-errorhandling-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-fibers-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-2-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-file-l2-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-handle-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-heap-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-interlocked-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-libraryloader-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-localization-l1-2-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-memory-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-namedpipe-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-processenvironment-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-1.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-profile-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-rtlsupport-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-string-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-2-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-sysinfo-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-timezone-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-core-util-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-conio-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-convert-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-environment-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-filesystem-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-heap-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-locale-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-math-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-multibyte-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-private-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-process-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-runtime-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-stdio-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-string-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-time-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\api-ms-win-crt-utility-l1-1-0.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\clretwrc.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\clrjit.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\coreclr.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\createdump.exe
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\dbgshim.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\hostfxr.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\hostpolicy.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\mscordaccore.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\mscordaccore_x86_x86_6.0.822.36306.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\mscordbi.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\mscorrc.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\msquic.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\ucrtbase.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\bin\Release\net6.0\win-x86\aspnetcorev2_inprocess.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.csproj.AssemblyReference.cache
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.GeneratedMSBuildEditorConfig.editorconfig
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.AssemblyInfoInputs.cache
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.AssemblyInfo.cs
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.csproj.CoreCompileInputs.cache
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.MvcApplicationPartsAssemblyInfo.cs
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.MvcApplicationPartsAssemblyInfo.cache
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.RazorAssemblyInfo.cache
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.RazorAssemblyInfo.cs
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\obj\Release\net6.0\win-x86\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\obj\Release\net6.0\win-x86\scopedcss\bundle\MVC_Music.styles.css
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\obj\Release\net6.0\win-x86\scopedcss\projectbundle\MVC_Music.bundle.scp.css
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.csproj.CopyComplete
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\obj\Release\net6.0\win-x86\refint\MVC_Music.dll
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.pdb
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\obj\Release\net6.0\win-x86\MVC_Music.genruntimeconfig.cache
+M:\Portfolio (2023)\MVC_Music_Solution\MVC_Music\obj\Release\net6.0\win-x86\ref\MVC_Music.dll

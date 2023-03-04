@@ -1,0 +1,63 @@
+﻿@model IEnumerable<MVC_Music.ViewModels.PerformanceSummaryVM>
+
+@{
+    ViewData["Title"] = "Performance Summary";
+}
+
+<h2>
+    Performance Summary
+    <a asp-action="DownloadPerformances" class="btn btn-info float-end">Download Report</a>
+</h2>
+
+<form asp-controller="Musicians" asp-action="PerformanceSummary" method="get">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.FormalName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.AvgFeePaid)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.HighestFeePaid)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.LowestFeePaid)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.NumberOfPerformances)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.NumberOfSongs)
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FormalName)
+                    </td>
+                    <td align="right" style="padding-right: 4rem;">
+                        @Html.DisplayFor(modelItem => item.AvgFeePaid)
+                    </td>
+                    <td align="right" style="padding-right: 4rem;">
+                        @Html.DisplayFor(modelItem => item.HighestFeePaid)
+                    </td>
+                    <td align="right" style="padding-right: 4rem;">
+                        @Html.DisplayFor(modelItem => item.LowestFeePaid)
+                    </td>
+                    <td align="right" style="padding-right: 4rem;">
+                        @Html.DisplayFor(modelItem => item.NumberOfPerformances)
+                    </td>
+                    <td align="right" style="padding-right: 4rem;">
+                        @Html.DisplayFor(modelItem => item.NumberOfSongs)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <partial name="_PagingNavBar" />
+</form>
